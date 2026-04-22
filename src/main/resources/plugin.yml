@@ -1,0 +1,4 @@
+name: TestPlugin
+version: 1.0
+main: me.kousik.test.TestPlugin
+api-version: 1.20
